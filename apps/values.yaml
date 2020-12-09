@@ -27,3 +27,7 @@ HEADBase:
   repoUrl: git@github.com:steku/gke_base_automation_public.git
   path: HEAD/base
   targetRevision: HEAD
+flaggerBase:
+  repoUrl: git@github.com:steku/gke_base_automation_public.git
+  path: flagger
+  targetRevision: HEAD
